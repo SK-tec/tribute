@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   margin: 0;
-  border: black solid 1px;
+  border: rgb(247, 60, 60) solid 2px;
 }
 h2 {
   color: rgb(238, 109, 34);
